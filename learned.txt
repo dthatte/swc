@@ -1,2 +1,6 @@
 hello world
+<<<<<<< HEAD
 Now modifying from master branch.
+=======
+second modification (in exercise branch)
+>>>>>>> exercise
